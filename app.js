@@ -10,7 +10,7 @@ const app = express();
 
 // establishing the databse connection
 mongoose.connect(
-  "mongodb+srv://dynamicmanish902:manish902@cluster0.hd2rtgf.mongodb.net/todoDB",
+  "mongodb+srv://dynamicmanish902:123manish@cluster0.hd2rtgf.mongodb.net/todoDB",
   { useNewUrlParser: true }
 );
 
